@@ -22,7 +22,7 @@ steps:
 
 - script: |
     gulp clean
-    gulp bundle --ship
+    gulp --ship
     gulp package-solution --ship
   displayName: 'Build and package the solution'
 
