@@ -11,7 +11,7 @@ export default class ServiceRequest extends React.Component<IServiceRequestProps
           <div className={ styles.row }>
             <div className={ styles.column }>
               <span className={ styles.title }>Welcome to Service Request!!!</span>
-              <p className={ styles.subTitle }>Customize Service Request using Web Parts.</p>
+              <p className={ styles.subTitle }>Customize Service Request using Web Parts!!</p>
               <p className={ styles.description }>{escape(this.props.description)}</p>
               <a href="https://aka.ms/spfx" className={ styles.button }>
                 <span className={ styles.label }>Learn more</span>
