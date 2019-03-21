@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "dev-ops-cicd",
+    "libraryId": "e5f659d5-3d7f-4d75-9da2-d430d0e072a6",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

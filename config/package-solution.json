@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dev-ops-cicd-client-side-solution",
+    "id": "e5f659d5-3d7f-4d75-9da2-d430d0e072a6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/dev-ops-cicd.sppkg"
+  }
+}
