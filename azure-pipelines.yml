@@ -37,4 +37,3 @@ steps:
     pathtoPublish: '$(Build.SourcesDirectory)/devops/release/' 
     artifactName: 'Office 365 CLI scripts' 
   displayName: 'Publish build office 365 CLI artifacts'
-
